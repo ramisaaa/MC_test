@@ -1,0 +1,4 @@
+Colonne n°1\t Colonne n°2\t Colonne n°3\t Colonne n°4\n
+cellule 1\t colonne 1 cellule 1\t colonne 2 cellule 1\t colonne 3 cellule 1\t colonne 4\n
+cellule 2\t colonne 1 cellule 2\t colonne 2 cellule 2\t colonne 3 cellule 2\t colonne 4\n
+cellule 3\t colonne 1 cellule 3\t colonne 2 cellule 3\t colonne 3 cellule 3\t colonne 4\n
